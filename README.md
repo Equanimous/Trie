@@ -1,4 +1,7 @@
 # Trie
-Trie data structure implementation
+Basic Trie implementation for the purposes of refreshing myself on C++.
 
-Functions included: TBD
+Functionality to be implemented:
+Insertion
+Removal
+Look-up
